@@ -1,6 +1,8 @@
 # Amazon-Book-Publications-Analysis
 This project explores Amazon books' publication trends from 2009 to 2019. It takes the 50 books from each year that are categorized as fiction and nonfiction. The analysis is visualized on a Tableau dashboard providing insight on consumer preferences and sales trends. It dives deep into genre popularity, sale trends, and top authors based on: number of publications, number of reviews per author, and number of reviews per book title.
 
+![Dashboard Image](dashboard.png)
+
 ## Objective
 The objective of this project is to give a better understanding of how the book market has changed over a decade by analyzing:
 - Genre distribution changes
