@@ -3,7 +3,7 @@ This project explores Amazon books' publication trends from 2009 to 2019. It tak
 
 ![Dashboard Image](dashboard.png)
 
-link to Tableau dashboard: https://public.tableau.com/app/profile/natalie.leung6809/viz/AmazonTopBooks_17545434574320/Dashboard23
+Link to Tableau dashboard: https://public.tableau.com/app/profile/natalie.leung6809/viz/AmazonTopBooks_17545434574320/Dashboard23
 
 ## Objective
 The objective of this project is to give a better understanding of how the book market has changed over a decade by analyzing:
@@ -44,5 +44,5 @@ Utilized pandas for the following:
 ##Tools Used
 - Python (Pandas)
 - Jupyter Notebook
-- CSV Dataset from Kaggle(https://www.kaggle.com/datasets/sootersaalu/amazon-top-50-bestselling-books-2009-2019)
+- CSV Dataset from Kaggle (https://www.kaggle.com/datasets/sootersaalu/amazon-top-50-bestselling-books-2009-2019)
 - Tableau
