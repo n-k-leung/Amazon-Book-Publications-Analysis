@@ -41,7 +41,7 @@ Utilized pandas for the following:
 - comparing the top 10 most popular book price ($9.85), top 10 authors by reives average book price ($11.30), to the overall average price ($13.10), we see that there is better performance with books with lower than average price point
 
 
-##Tools Used
+## Tools Used
 - Python (Pandas)
 - Jupyter Notebook
 - CSV Dataset from Kaggle (https://www.kaggle.com/datasets/sootersaalu/amazon-top-50-bestselling-books-2009-2019)
